@@ -18,7 +18,5 @@ deploy:
   on:
     branch: master
 
-access_key_id: 
-  secure: "AKIAS7UHIBAMCMI6M2ZG"
-secret_access_key:
-  secure: "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"
+access_key_id: "AKIAS7UHIBAMCMI6M2ZG"
+secret_access_key: "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"
