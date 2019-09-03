@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <code>src/App.js</code>Hi there. This is awsome. How react works.
+          <code>src/App.js</code>Changed on the feature branch. This is awsome. How react works.
         </p>
         <a
           className="App-link"
